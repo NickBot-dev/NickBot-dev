@@ -8,8 +8,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/NickBot-dev/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/NickBot-dev/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/NickBot-dev/configure-ad)
+  - [Creating Windows and Linux Virtual Machines within Azure](https://github.com/NickBot-dev/Creating-VMs-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NickBot-dev/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/NickBot-dev/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
